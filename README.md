@@ -7,3 +7,4 @@ We are using:
 - pySpark: Handle data processing
 - tensorFlow: Build model for prediction
 - Kafka: Stream real-time data such as event-notification
+- Jupyter Notebook: IDE
