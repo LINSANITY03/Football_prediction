@@ -11,6 +11,6 @@ We are using:
 
 ## How it install:
 
-- 1. Get Spark from [Oracle Page](https://spark.apache.org/downloads.html) and follow up [Pyspark page](https://pypi.org/project/pyspark/).
-- 2. Make sure install same version for Pypi and spark from apache.
-- 3. Setup a virtual env and activate it.
+1. Get Spark from [Apache Page](https://spark.apache.org/downloads.html) and follow up [Pyspark page](https://pypi.org/project/pyspark/).
+2. Make sure install same version for Pypi and spark from apache.
+3. Setup a virtual env and activate it.
