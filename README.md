@@ -1,15 +1,14 @@
 # Football Prediction
 
-This project is intended to replicate game simulation such as in FIFA where users can simulate the football games and see real-time event such as Cards given, goals as well as results.
+Following the [Google Cloud course](https://www.cloudskillsboost.google/course_templates/656/labs/477657), this project uses opensource tools instead of bigquery to analyze the football data, calculate shot distance and angle, then perform predictive analysis for goal outcome.
 
 We are using:
 
 - pySpark==3.5.0: Handle data processing
 - tensorFlow: Build model for prediction
-- Kafka: Stream real-time data such as event-notification
 - Jupyter Notebook: IDE
 
-## How it install:
+## How to install:
 
 1. Get Spark from [Apache Page](https://spark.apache.org/downloads.html) and follow up [Pyspark page](https://pypi.org/project/pyspark/).
 2. Make sure install same version for Pypi and spark from apache.
